@@ -1,0 +1,2 @@
+"https://app.pluralsight.com/player?course=building-linux-server-for-ruby-on-rails&author=jim-pickrell&name=building-linux-server-for-ruby-on-rails": [1, 13, 19, 13, 10, 7, 5, 5, 5, 1], 
+"https://app.pluralsight.com/player?course=ruby-on-rails-integrating-payments&author=kristian-freeman&name=ruby-on-rails-integrating-payments": [3, 3, 3, 3, 6, 2]
