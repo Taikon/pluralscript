@@ -22,3 +22,7 @@ Clone youtube-dl and pluralscript
 ### Supported Platforms
 * Ubuntu 20.04 will work by default
 * Ubuntu <20.04 will require you to edit the file path for python3
+
+### Disclaimer
+* Pluralsight do not permit users to download their videos in their ToS.
+* Use this script at your own risk.
